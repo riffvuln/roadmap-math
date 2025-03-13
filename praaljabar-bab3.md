@@ -106,4 +106,3 @@ Bekerja dengan ekspresi aljabar memerlukan pendekatan strategis. Beberapa tips:
 
 ---
 
-*Catatan: Markdown ini menggunakan sintaks LaTeX untuk menampilkan persamaan matematika. Pastikan pembaca Anda mendukung rendering LaTeX/MathJax.*
