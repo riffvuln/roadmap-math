@@ -4,6 +4,7 @@
 3. [Pra Aljabar: Chapter 2](praaljabar-bab2-ez.md)
 4. [Pra Aljabar: Chapter 3](praaljabar-bab3.md)
 5. [Pra Aljabar: Chapter 4](praaljabar-bab4.md)
+6. [Pra Aljabar: Chapter 5](praaljabar-bab5.md)
 
 # Harder Pre-Algebra
 1. [Pra Aljabar: Chapter 2 - Hard](praaljabar-bab2-hard.md)
