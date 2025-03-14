@@ -166,5 +166,3 @@ Jika $3x + 4 = 13$, kita bisa mencari nilai $x$ dengan:
 5. Pada suatu timbangan yang seimbang, sisi kiri berisi 3 mangga dan 2 apel, sedangkan sisi kanan berisi 4 jeruk. Pada timbangan lain yang juga seimbang, 2 mangga sama dengan 3 jeruk. Jika berat satu apel adalah 100 gram, berapakah berat satu mangga dan satu jeruk?
 
 ---
-
-*Catatan: Dokumen ini menggunakan notasi MathJax/LaTeX untuk menampilkan persamaan matematika dengan lebih baik. Pastikan penampil Markdown Anda mendukung MathJax untuk melihat persamaan dengan benar.*
