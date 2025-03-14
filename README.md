@@ -9,6 +9,7 @@
 8. [Pra Aljabar: Chapter 7](praaljabar-bab7.md)
 9. [Pra Aljabar: Chapter 8](praaljabar-bab8.md)
 10. [Pra Aljabar: Chapter 9](praaljabar-bab9.md)
+11. [Pra Aljabar: Chapter 10](praaljabar-bab10.md)
 
 # Harder Pre-Algebra
 1. [Pra Aljabar: Chapter 2 - Hard](praaljabar-bab2-hard.md)
